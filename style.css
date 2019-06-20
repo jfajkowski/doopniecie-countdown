@@ -1,7 +1,13 @@
-#rl {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%; 
-  min-height: 100%;
+#movie {
+  position: relative;
+  margin: 0 auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.clock {
+    display: inline-block;
+    width: auto;
 }
